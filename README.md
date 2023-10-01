@@ -11,9 +11,20 @@ This notebook is a simple explaination of Linear Interpolation. It is a method o
 
 ![Linear Interpolation Screenshot](lerp.png)
 
+## 3. Linear Regression
+This notebook is a simple Linear regression which is a statistical method that allows us to summarize and study relationships between two continuous (quantitative) variables:
+- One variable, denoted x, is regarded as the predictor, explanatory, or independent variable.
+- The other variable, denoted y, is regarded as the response, outcome, or dependent variable.
+
+![Linear Regression Screenshot](linear_regression.png)
+
 ## Libraries Used
 
-All the programs are written in Python and uses the [Manim](https://www.manim.community) library for animation. Manim is an animation engine for explanatory math videos dveloped by **Grant Sanderson** better known as [3Blue1Brown](https://www.youtube.com/c/3blue1brown).
+All the programs are written in Python and uses these libraries:
+
+1. [Manim](https://www.manim.community) library for animation. Manim is an animation engine for explanatory math videos dveloped by **Grant Sanderson** better known as [3Blue1Brown](https://www.youtube.com/c/3blue1brown).
+
+2. [PyTorch](https://pytorch.org) library for machine learning. PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing, primarily developed by Facebook's AI Research lab (FAIR).
 
 ## Author
 
